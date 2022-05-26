@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello World 👋
+
+I'm **Suraj** currently undergoing Founders & Coders programme.
+Aspiring to become a Full-Stack Developer.
+
+![Full-Stack-Dev](https://www.interviewbit.com/blog/wp-content/uploads/2021/06/What-is-Full-Stack-Developer.png)
+
+
+
 
 <!--
 **SurPun/SurPun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
