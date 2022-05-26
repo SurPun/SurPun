@@ -1,7 +1,7 @@
 # Hello World 👋
 
 I'm **Suraj** currently undergoing Founders & Coders programme.
-Aspiring to become a Full-Stack Developer.
+Aspiring to become a Full-Stack Developer in the near future.
 
 ![Full-Stack-Dev](https://www.interviewbit.com/blog/wp-content/uploads/2021/06/What-is-Full-Stack-Developer.png)
 
