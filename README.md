@@ -8,4 +8,4 @@ I'm Suraj currently a Software Developer Trainee at Founders & Coders.<br>
 ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=SurPun&theme=dracula&hide=stars,issues)
 
 ## Skills
-**JavaScript | HTML | CSS | GIT**
+**HTML | CSS | JavaScript | GIT**
