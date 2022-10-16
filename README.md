@@ -1,7 +1,7 @@
 # Hello
  
 I'm Suraj, currently training to become a full-stack developer with Founders & Coders,<br>
-where i'm working on projects with teams and learning to use the skills in a professional working environment.
+where i'm working as a team on projects and learning to use the skills in a professional working environment.
 
 ## Skills
 **HTML | CSS | JavaScript | Git | Node.js**
