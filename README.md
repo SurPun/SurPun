@@ -11,4 +11,4 @@ where i'm working on projects as a team and learning to use my skills in a profe
 
 ### How to reach me:
 
-<a href="mailto:s_pun_dev@protonmail.com?subject=[GitHub]" target="blank"><img align="center" src="https://img.shields.io/badge/s_pun_dev@protonmail.com-8B89CC?style=flat&logo=protonmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/surpun/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
