@@ -14,6 +14,8 @@ where i'm working on projects as a team and learning to use my skills in a profe
 ## Frameworks
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
+<br>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SurPun&theme=highcontrast)](https://git.io/streak-stats)
 ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=SurPun&theme=dracula&hide=stars,issues)
 
