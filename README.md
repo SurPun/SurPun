@@ -1,7 +1,6 @@
-# Hello
+# Hello World
  
-I'm Suraj, currently training to become a full-stack developer with Founders & Coders,<br>
-where i'm working on projects as a team and learning to use my skills in a professional working environment.
+I'm Suraj, currently training to become a full-stack developer with [Founders & Coders](https://www.foundersandcoders.com/hire/).
 
 ## Tech Stack
 
@@ -9,7 +8,7 @@ where i'm working on projects as a team and learning to use my skills in a profe
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> 
 
-## Design Tools
+### Design Tools
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 <br>
