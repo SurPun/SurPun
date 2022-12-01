@@ -11,11 +11,10 @@ I'm Suraj, currently training to become a full-stack developer with [Founders & 
 ### Design Tools
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SurPun&theme=highcontrast)](https://git.io/streak-stats)
-![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=SurPun&theme=dracula&hide=stars,issues)
-
-### How to reach me:
+## How to reach me:
 
 <a href="https://www.linkedin.com/in/surpun/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SurPun&theme=highcontrast)](https://git.io/streak-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurPun&layout=compact&theme=vision-friendly-dark)](https://github.com/SurPun/github-readme-stats) 
+![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=SurPun&theme=dracula&hide=stars,issues) 
