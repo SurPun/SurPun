@@ -19,8 +19,8 @@ Aspiring to become a Full-Stack Developer.
 <!-- CYPRESS -->
 <!-- <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /> -->
 
-### Design Tools
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+### Design Tools | Platforms
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" />
 
 ## How to reach me:
 
