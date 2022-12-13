@@ -1,7 +1,8 @@
 # Hello World
  
-I'm Suraj, currently training to become a full-stack developer with [Founders & Coders](https://www.foundersandcoders.com/hire/).
-Aspiring to become a Full-Stack Developer.
+I'm Suraj, Full Time Coder.<br>
+Trained with [Founders & Coders](https://www.foundersandcoders.com/hire/) and
+aspiring to become a Full-Stack Developer.
 
 ## Tech Stack | Learnings
 <!-- HTML, CSS, JS  -->
