@@ -27,6 +27,6 @@ aspiring to become a Full-Stack Developer.
 
 <a href="https://www.linkedin.com/in/surpun/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SurPun&theme=city-lights)](https://git.io/streak-stats) <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SurPun&theme=elegant)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurPun&layout=compact&theme=vision-friendly-dark)](https://github.com/SurPun/github-readme-stats) 
 ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=SurPun&theme=dracula&hide=stars,issues) 
