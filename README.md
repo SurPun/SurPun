@@ -2,7 +2,7 @@
  
 I'm Suraj, Full Time Coder.<br>
 Trained with [Founders & Coders](https://www.foundersandcoders.com/hire/) and
-aspiring to become a Full-Stack Developer.
+aspiring to become a Full-Stack Developer. Currently an Apprentice with Zaizi.
 
 ## Tech Stack | Learnings
 <!-- HTML, CSS, JS  -->
