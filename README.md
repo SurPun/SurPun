@@ -7,6 +7,9 @@ aspiring to become a Full-Stack Developer.
 Currently an Apprentice with [Zaizi](https://www.zaizi.com/).
 
 ## What I'm Currently Learning 
+- Python
+- Aws
+- TypeScript
 
 ## Tech Stack | Learnings
 <!-- HTML, CSS, JS  -->
