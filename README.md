@@ -10,6 +10,7 @@ Currently an Apprentice with [Zaizi](https://www.zaizi.com/).
 - Python
 - Aws
 - TypeScript
+- Cloud Engineering
 
 ## Tech Stack | Learnings
 <!-- HTML, CSS, JS  -->
