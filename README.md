@@ -6,7 +6,7 @@ aspiring to become a Full-Stack Developer.
 
 Currently an Apprentice with [Zaizi](https://www.zaizi.com/).
 
-## What I'm Currently Learning 
+## What I'm Currently Learning (DevOps & Cloud)
 - Docker
 - Aws
 - Terraform
