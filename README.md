@@ -4,13 +4,11 @@ I'm Suraj, Full Time Coder.<br>
 Trained with [Founders & Coders](https://www.foundersandcoders.com/hire/) and
 aspiring to become a Full-Stack Developer.
 
-Currently an Apprentice with [Zaizi](https://www.zaizi.com/).
+Currently an Apprentice @[Zaizi](https://www.zaizi.com/).
 
 ## What I'm Currently Learning
-- Docker
-- Aws
-- Terraform
-
+- Aws CP
+ 
 ## Tech Stack | Learnings
 <!-- HTML, CSS, JS -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
