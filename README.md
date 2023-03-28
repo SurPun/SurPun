@@ -1,10 +1,10 @@
 # Hello World
  
 I'm Suraj, Full Time Coder.<br>
-Trained with [Founders & Coders](https://www.foundersandcoders.com/hire/) and
+[Founders & Coders](https://www.foundersandcoders.com/hire/) Alumni(25)
 aspiring to become a Full-Stack Developer.
 
-Currently an Apprentice @[Zaizi](https://www.zaizi.com/).
+Apprentice @[Zaizi](https://www.zaizi.com/).
 
 ## What I'm Currently Learning
 - Aws CP
