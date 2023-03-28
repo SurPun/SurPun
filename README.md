@@ -4,7 +4,7 @@ I'm Suraj, Full Time Coder.<br>
 [Founders & Coders](https://www.foundersandcoders.com/hire/) Alumni(25)
 aspiring to become a Full-Stack Developer.
 
-Apprentice @[Zaizi](https://www.zaizi.com/).
+Associate Software Developer @[Zaizi](https://www.zaizi.com/).
 
 ## What I'm Currently Learning
 - Aws CP
