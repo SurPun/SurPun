@@ -7,8 +7,9 @@ aspiring to become a Full-Stack Developer.
 Associate Software Developer @[Zaizi](https://www.zaizi.com/).
 
 ## What I'm Currently Learning
-- [Aws CP](https://www.udemy.com/share/103a093@qmTjp7vMK3i5f7QEcbaK47V1_RCaZvkc0MmyRUp0pdD5grl2l_gYqNZYvZQKq_jd/)
+<!-- - [Aws CP](https://www.udemy.com/share/103a093@qmTjp7vMK3i5f7QEcbaK47V1_RCaZvkc0MmyRUp0pdD5grl2l_gYqNZYvZQKq_jd/) -->
 - [Mimo App :)](https://getmimo.com/invite/g3m1ve)
+- Terraform
 - Machine Learning
  
 ## Tech Stack | Learnings
