@@ -8,6 +8,7 @@ Associate Software Developer @[Zaizi](https://www.zaizi.com/).
 
 ## What I'm Currently Learning
 - [Mimo App](https://getmimo.com/invite/g3m1ve) :)
+- AWS Developers Associate
  
 ## Tech Stack | Learnings
 <!-- HTML, CSS, JS -->
