@@ -7,9 +7,9 @@ aspiring to become a Full-Stack Developer.
 Associate Software Developer @[Zaizi](https://www.zaizi.com/).
 
 ## What I'm Currently Learning
-- [Mimo App](https://getmimo.com/invite/g3m1ve) :)
-- AWS Developers Associate
-- Python
+- [AWS Developers Associate](https://www.udemy.com/share/101WES3@w-d82tJ9EvIsEhZV_i1UYnZ1wJ1edGtofJ7OTB6SyzPNDb-M9QpGozJvnGCmSojR/)
+- [Python](https://www.udemy.com/share/101W8Q3@UdTiEPd0_QbnAVOwV6KntGdcCFYS8oqE5L5Uq0Jq3RDkgbIg0dwL6oYEWDzWpP08/)
+- [Mimo App](https://getmimo.com/invite/g3m1ve) 👾
  
 ## Tech Stack | Learnings
 <!-- HTML, CSS, JS -->
@@ -19,7 +19,7 @@ Associate Software Developer @[Zaizi](https://www.zaizi.com/).
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
 <!-- Docker, Terraform, AWS -->
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 ### Design Tools
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 
