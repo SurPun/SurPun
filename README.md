@@ -9,7 +9,7 @@ Associate Software Developer @[Zaizi](https://www.zaizi.com/).
 ## What I'm Currently Learning
 - [AWS Developers Associate](https://www.udemy.com/share/101WES3@w-d82tJ9EvIsEhZV_i1UYnZ1wJ1edGtofJ7OTB6SyzPNDb-M9QpGozJvnGCmSojR/)
 - [Python](https://www.udemy.com/share/101W8Q3@UdTiEPd0_QbnAVOwV6KntGdcCFYS8oqE5L5Uq0Jq3RDkgbIg0dwL6oYEWDzWpP08/)
-- [Mimo App](https://getmimo.com/invite/g3m1ve) 👾
+- [Ruby on Rails](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/)
  
 ## Tech Stack | Learnings
 <!-- HTML, CSS, JS -->
