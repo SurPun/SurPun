@@ -10,7 +10,8 @@ Associate Software Developer @[Zaizi](https://www.zaizi.com/).
 - [AWS Developers Associate](https://www.udemy.com/share/101WES3@w-d82tJ9EvIsEhZV_i1UYnZ1wJ1edGtofJ7OTB6SyzPNDb-M9QpGozJvnGCmSojR/)
 - [Python](https://www.udemy.com/share/101W8Q3@UdTiEPd0_QbnAVOwV6KntGdcCFYS8oqE5L5Uq0Jq3RDkgbIg0dwL6oYEWDzWpP08/)
 - [Ruby on Rails](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/)
- 
+- Kubernetes 
+
 ## Tech Stack | Learnings
 <!-- HTML, CSS, JS -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
