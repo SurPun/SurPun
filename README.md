@@ -21,6 +21,7 @@ Associate Software Developer @[Zaizi](https://www.zaizi.com/).
 
 ### Design Tools
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 
+- Lucid
 
 ## How to reach me:
 
