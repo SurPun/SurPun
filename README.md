@@ -2,15 +2,12 @@
  
 I'm Suraj, Full Time Coder.<br>
 [Founders & Coders](https://www.foundersandcoders.com/hire/) Alumni(25)
-aspiring to become a Full-Stack Developer.
+aspiring to become a Full-Stack Developer and a Cloud Engineer.
 
 Associate Software Developer @[Zaizi](https://www.zaizi.com/).
 
 ## What I'm Currently Learning
 - [AWS Developers Associate](https://www.udemy.com/share/101WES3@w-d82tJ9EvIsEhZV_i1UYnZ1wJ1edGtofJ7OTB6SyzPNDb-M9QpGozJvnGCmSojR/)
-
-## What I'm Currently Working On
-- AWS Api Gateway, Lambda & DynamoDB Module
 
 ## Tech Stack | Learnings
 <!-- HTML, CSS, JS -->
