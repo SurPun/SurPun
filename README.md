@@ -4,8 +4,8 @@ I'm Suraj, Full Time Coder.<br>
 [Founders & Coders](https://www.foundersandcoders.com/hire/) Alumni(25)
 aspiring to become a Full-Stack Developer and a Cloud Engineer.
 
-- Associate Software Developer @[Zaizi](https://www.zaizi.com/). (12-Jan-2022)
-.
+Associate Software Developer @[Zaizi](https://www.zaizi.com/). (Jan-2022)
+
 ## What I'm Currently Learning
 - [AWS Developers Associate](https://www.udemy.com/share/101WES3@w-d82tJ9EvIsEhZV_i1UYnZ1wJ1edGtofJ7OTB6SyzPNDb-M9QpGozJvnGCmSojR/)
 
@@ -27,6 +27,6 @@ aspiring to become a Full-Stack Developer and a Cloud Engineer.
 <a href="https://www.linkedin.com/in/surpun/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SurPun&theme=elegant)](https://git.io/streak-stats) <br>
-[![Top Langs](https:// github-readme-stats.vercel.app/api/top-langs/?username=SurPun&layout=compact&theme=vision-friendly-dark)](https://github.com/SurPun/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SurPun&layout=compact&theme=vision-friendly-dark)](https://github.com/SurPun/github-readme-stats) 
 <!-- ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=SurPun&theme=dracula&hide=stars,issues)  -->
  
