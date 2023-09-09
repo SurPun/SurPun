@@ -23,7 +23,6 @@ Associate Software Developer @[Zaizi](https://www.zaizi.com/). (Jan-2022)
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 
 ## How to reach me:
-
 <a href="https://www.linkedin.com/in/surpun/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SurPun&theme=elegant)](https://git.io/streak-stats) <br>
