@@ -8,7 +8,7 @@ Associate Software Developer @[Zaizi](https://www.zaizi.com/). (Jan-2022)
 
 ## What I'm Currently Learning
 - [AWS Developers Associate](https://www.udemy.com/share/101WES3@w-d82tJ9EvIsEhZV_i1UYnZ1wJ1edGtofJ7OTB6SyzPNDb-M9QpGozJvnGCmSojR/)
-- [SQL]
+- SQL
 
 ## Tech Stack | Learnings
 <!-- HTML, CSS, JS -->
