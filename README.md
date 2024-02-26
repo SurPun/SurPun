@@ -2,7 +2,7 @@
  
 I'm Suraj, Full Time Coder.<br>
 [Founders & Coders](https://www.foundersandcoders.com/hire/) Alumni(25)
-aspiring to become a Full-Stack Developer and a Cloud Engineer.
+aspiring to become a Full-Stack Developer.
 
 Associate Software Developer @[Zaizi](https://www.zaizi.com/). (Jan 2023)
 <br>
