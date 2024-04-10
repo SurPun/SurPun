@@ -1,6 +1,6 @@
 # Hello World
  
-I'm Suraj, Full Time Coder.<br>
+I'm Suraj, <br>
 [Founders & Coders](https://www.foundersandcoders.com/hire/) Alumni(25)
 aspiring to become a Full-Stack Developer.
 
