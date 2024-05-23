@@ -5,7 +5,7 @@ I'm Suraj, <br>
 
 Associate Software Developer @[Zaizi](https://www.zaizi.com/) - (Jan 2023 - Present)
 
-- [SurPun2](https://github.com/SurPun2)
+<!-- - [SurPun2](https://github.com/SurPun2) -->
 
 ## What I'm Currently Learning
 - [AWS Developers Associate](https://www.udemy.com/share/101WES3@w-d82tJ9EvIsEhZV_i1UYnZ1wJ1edGtofJ7OTB6SyzPNDb-M9QpGozJvnGCmSojR/)
